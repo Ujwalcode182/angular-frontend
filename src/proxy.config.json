@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+      "target": "https://product-admin-panel-api.vercel.app",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  

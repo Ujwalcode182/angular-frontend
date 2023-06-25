@@ -1,0 +1,14 @@
+
+.row{
+    top:0;
+}
+.table{
+    margin-right:200px;
+    overflow-y: scroll;
+    max-height: 200px;
+    margin-top: 10px;
+}
+div .h2{
+    margin-top: 10px;
+}
+
